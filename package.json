@@ -1,0 +1,15 @@
+{
+  "name": "harsh",
+  "version": "1.0.0",
+  "description": "this is first pacjkage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^17.2.0",
+    "express": "^4.18.2"
+  }
+}
